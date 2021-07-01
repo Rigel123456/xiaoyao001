@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xy-maven-son-003:war">
+    <output-path>$PROJECT_DIR$/xy-maven-son-003/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>xy-maven-son-003</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="xy-maven-son-003-1.0.0.war">
+      <element id="artifact" artifact-name="xy-maven-son-003:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/xy-maven-son-003" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01_xy_springcloud_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/01_xy_springcloud_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/02_xy_springcloud_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/001_xy_springcloud_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/002_xy_springcloud_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/002_springcloud_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/002_xy_springcloud_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/02_xy_springcloud_eureka_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/02_xy_springcloud_eureka_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/03-xy-springcloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/03-xy-springcloud-eruka-01/pom.xml" />
+        <option value="$PROJECT_DIR$/03-xy-springcloud-eureka-01/pom.xml" />
+        <option value="$PROJECT_DIR$/03-xy-springcloud-eureka-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/03-xy-springcloud-eureka-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/xy-maven-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/xy-maven-son-001/pom.xml" />
+        <option value="$PROJECT_DIR$/xy-maven-son-002/pom.xml" />
+        <option value="$PROJECT_DIR$/xy-maven-son-003/pom.xml" />
+        <option value="$PROJECT_DIR$/xy-maven-grandson-001/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8.0_201" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

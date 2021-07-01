@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="001_xy_springcloud_parent" />
+        <module name="002_xy_springcloud_consumer" />
+        <module name="002_xy_springcloud_provider" />
+        <module name="01_xy_springcloud_consumer" />
+        <module name="01_xy_springcloud_provider" />
+        <module name="02_xy_springcloud_eureka" />
+        <module name="02_xy_springcloud_eureka_consumer" />
+        <module name="02_xy_springcloud_eureka_provider" />
+        <module name="03-xy-springcloud-eruka-01" />
+        <module name="03-xy-springcloud-eureka" />
+        <module name="03-xy-springcloud-eureka-01" />
+        <module name="03-xy-springcloud-eureka-consumer" />
+        <module name="03-xy-springcloud-eureka-provider" />
+        <module name="xy-maven-grandson-001" />
+        <module name="xy-maven-parent" />
+        <module name="xy-maven-son-002" />
+        <module name="xy-maven-son-003" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="001_xy_springcloud_parent" target="1.8" />
+      <module name="002_xy_springcloud_consumer" target="1.8" />
+      <module name="002_xy_springcloud_provider" target="1.8" />
+      <module name="01_xy_springcloud_consumer" target="1.8" />
+      <module name="01_xy_springcloud_provider" target="1.8" />
+      <module name="02_xy_springcloud_eureka" target="1.8" />
+      <module name="02_xy_springcloud_eureka_consumer" target="1.8" />
+      <module name="02_xy_springcloud_eureka_provider" target="1.8" />
+      <module name="03-xy-springcloud-eruka-01" target="1.8" />
+      <module name="03-xy-springcloud-eruka-01 (1)" target="1.8" />
+      <module name="03-xy-springcloud-eureka" target="1.8" />
+      <module name="03-xy-springcloud-eureka-01" target="1.8" />
+      <module name="03-xy-springcloud-eureka-consumer" target="1.8" />
+      <module name="03-xy-springcloud-eureka-provider" target="1.8" />
+      <module name="_001_xy_springcloud_parent" target="1.8" />
+      <module name="xy-maven-grandson-001" target="1.8" />
+      <module name="xy-maven-parent" target="1.8" />
+      <module name="xy-maven-son-001" target="1.8" />
+      <module name="xy-maven-son-002" target="1.8" />
+      <module name="xy-maven-son-003" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="001_xy_springcloud_parent" options="-parameters" />
+      <module name="002_xy_springcloud_consumer" options="-parameters" />
+      <module name="002_xy_springcloud_provider" options="-parameters" />
+      <module name="01_xy_springcloud_consumer" options="-parameters" />
+      <module name="01_xy_springcloud_provider" options="-parameters" />
+      <module name="02_xy_springcloud_eureka" options="-parameters" />
+      <module name="02_xy_springcloud_eureka_consumer" options="-parameters" />
+      <module name="02_xy_springcloud_eureka_provider" options="-parameters" />
+      <module name="03-xy-springcloud-eruka-01 (1)" options="-parameters" />
+      <module name="03-xy-springcloud-eureka" options="-parameters" />
+      <module name="03-xy-springcloud-eureka-01" options="-parameters" />
+      <module name="03-xy-springcloud-eureka-consumer" options="-parameters" />
+      <module name="03-xy-springcloud-eureka-provider" options="-parameters" />
+    </option>
+  </component>
+</project>

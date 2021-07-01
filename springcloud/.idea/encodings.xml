@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/001_xy_springcloud_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/002_xy_springcloud_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/002_xy_springcloud_provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01_xy_springcloud_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01_xy_springcloud_provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_xy_springcloud_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_xy_springcloud_eureka_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_xy_springcloud_eureka_provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-xy-springcloud-eruka-01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-xy-springcloud-eruka-01/pom.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-xy-springcloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-xy-springcloud-eureka-01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-xy-springcloud-eureka-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-xy-springcloud-eureka-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-xy-springcloud-eureka/pom.xml" charset="UTF-8" />
+  </component>
+</project>

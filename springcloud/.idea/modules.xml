@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001_xy_springcloud_parent/001_xy_springcloud_parent.iml" filepath="$PROJECT_DIR$/001_xy_springcloud_parent/001_xy_springcloud_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002_xy_springcloud_consumer/002_xy_springcloud_consumer.iml" filepath="$PROJECT_DIR$/002_xy_springcloud_consumer/002_xy_springcloud_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002_xy_springcloud_provider/002_xy_springcloud_provider.iml" filepath="$PROJECT_DIR$/002_xy_springcloud_provider/002_xy_springcloud_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_xy_springcloud_consumer/01_xy_springcloud_consumer.iml" filepath="$PROJECT_DIR$/01_xy_springcloud_consumer/01_xy_springcloud_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_xy_springcloud_provider/01_xy_springcloud_provider.iml" filepath="$PROJECT_DIR$/01_xy_springcloud_provider/01_xy_springcloud_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_xy_springcloud_eureka/02_xy_springcloud_eureka.iml" filepath="$PROJECT_DIR$/02_xy_springcloud_eureka/02_xy_springcloud_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_xy_springcloud_eureka_consumer/02_xy_springcloud_eureka_consumer.iml" filepath="$PROJECT_DIR$/02_xy_springcloud_eureka_consumer/02_xy_springcloud_eureka_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_xy_springcloud_eureka_provider/02_xy_springcloud_eureka_provider.iml" filepath="$PROJECT_DIR$/02_xy_springcloud_eureka_provider/02_xy_springcloud_eureka_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-xy-springcloud-eruka-01/03-xy-springcloud-eruka-01.iml" filepath="$PROJECT_DIR$/03-xy-springcloud-eruka-01/03-xy-springcloud-eruka-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-xy-springcloud-eureka/03-xy-springcloud-eureka.iml" filepath="$PROJECT_DIR$/03-xy-springcloud-eureka/03-xy-springcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-xy-springcloud-eureka-01/03-xy-springcloud-eureka-01.iml" filepath="$PROJECT_DIR$/03-xy-springcloud-eureka-01/03-xy-springcloud-eureka-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-xy-springcloud-eureka-consumer/03-xy-springcloud-eureka-consumer.iml" filepath="$PROJECT_DIR$/03-xy-springcloud-eureka-consumer/03-xy-springcloud-eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-xy-springcloud-eureka-provider/03-xy-springcloud-eureka-provider.iml" filepath="$PROJECT_DIR$/03-xy-springcloud-eureka-provider/03-xy-springcloud-eureka-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xy-maven-grandson-001/xy-maven-grandson-001.iml" filepath="$PROJECT_DIR$/xy-maven-grandson-001/xy-maven-grandson-001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xy-maven-parent/xy-maven-parent.iml" filepath="$PROJECT_DIR$/xy-maven-parent/xy-maven-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xy-maven-son-001/xy-maven-son-001.iml" filepath="$PROJECT_DIR$/xy-maven-son-001/xy-maven-son-001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xy-maven-son-002/xy-maven-son-002.iml" filepath="$PROJECT_DIR$/xy-maven-son-002/xy-maven-son-002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xy-maven-son-003/xy-maven-son-003.iml" filepath="$PROJECT_DIR$/xy-maven-son-003/xy-maven-son-003.iml" />
+    </modules>
+  </component>
+</project>
